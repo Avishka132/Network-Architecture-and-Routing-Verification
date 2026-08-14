@@ -87,7 +87,7 @@ show ip protocols
 ## Repository Structure
 
 ```
-Lab_7.5.1/
+Lab_/
 ├── configs/
 ├── screenshots/
 ├── documentation/
